@@ -204,6 +204,18 @@ I have tested the below given utterances for opening and closing and it was work
     • alexa ask chat to i want to sleep
     • alexa ask chat to let there be darkness
 
+## 8.OUTPUT
+
+The final output of the entire project is published in youtube. The link for the same is given below:
+
+- **[SMARTER ALEXA WITH CHATGPT](https://youtu.be/e6UBLhVe9sE)**
+
+
+
+
+
+
+
 
 
 
