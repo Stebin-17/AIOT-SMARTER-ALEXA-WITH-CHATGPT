@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "device",
+            "invocationName": "chat",
             "intents": [
                 {
                     "name": "AMAZON.FallbackIntent",
@@ -36,8 +36,8 @@
                         }
                     ],
                     "samples": [
-                        "led {question}",
-                        "led to {question}"
+                        "{question}",
+                        "to {question}"
                     ]
                 },
                
