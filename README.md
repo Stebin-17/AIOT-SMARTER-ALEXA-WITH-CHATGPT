@@ -139,7 +139,7 @@ pip install cryptography==1.9
 pip install pyopenssl ndg-httpsclient pyasn1
 ```
 
-The flask is installed in the Raspberry pi. Now we have to run the flask server, which will receive requests from the Alexa skills through the endpoint given. The ngrok is working on the same system as the flask server, which will help the local host to be publicly visible and accessible. To run the flask server, open the code in the [LINK](https://github.com/Stebin-17/AIOT-SMARTER-ALEXA-WITH-CHATGPT/blob/main/FLASK_SERVER_ALEXA.py).
+The flask is installed in the Raspberry pi. Now we have to run the flask server, which will receive requests from the Alexa skills through the endpoint given. The ngrok is working on the same system as the flask server, which will help the local host to be publicly visible and accessible. To run the flask server, open the code in the [link](https://github.com/Stebin-17/AIOT-SMARTER-ALEXA-WITH-CHATGPT/blob/main/FLASK_SERVER_ALEXA.py).
  
  The python code has a certain block of code starting with ```@ask.intent('chatgpt',mapping={'user_question':'question'})``` this is the block of code that handles both the chatGPT conversion and MQTT message handling whenever the phrase is reached. The value of the ```question``` is mapped to a variable ```user_question``` in the function.
  
@@ -176,7 +176,7 @@ Make the endpoint of Alexa to the webaddress obtained from ngrok. For SSL certif
 </p>
 
 ### 8. TEST THE SKILLS AND CONNECT TO ECHO DOT:
-
+Head over to 'test' section of your skill console and start testing your skill. Try saying commands like ```Alexa ask chat to i wanna see```. This should turn on LED light connected to you Raspberry Pi. For attaching the Echo-Dot to  this project refer the steps mentioned in the [link](https://www.theverge.com/2019/11/19/20972973/amazon-echo-alexa-how-to-add-skills-smart-home-games-sounds).
 
 ## 7. SAMPLE UTTERANCES:
 
