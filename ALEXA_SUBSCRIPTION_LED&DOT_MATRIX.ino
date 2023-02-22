@@ -184,21 +184,7 @@ IPAddress ip(192, 168, 0, 102);
 IPAddress server(54, 87, 92, 106);
 IPAddress myDns(192, 168, 0, 1);
 
-//void callback(char* topic, byte* payload, unsigned int length) {
-//  Serial.print("Message arrived [");
-//  Serial.print(topic);
-//  Serial.print("] ");
-//  for (int i = 0; i < length; i++) {
-//    char receivedChar = (char)payload[i];
-//    Serial.print(receivedChar);
-//    writeStrScroll(payload[i], 150);
-//    if (receivedChar == '0')
-//      digitalWrite(chartsPin, HIGH);
-//    if (receivedChar == '1')
-//      digitalWrite(chartsPin, LOW);
-//  }
-//  Serial.println();
-//}
+
 
 void callback(char* topic, byte* payload, unsigned int length) {
   Serial.print("Message arrived [");
@@ -227,15 +213,6 @@ void callback(char* topic, byte* payload, unsigned int length) {
 
 
 
-//
-//
-//  if(incomingMessage.indexOf("TURN ON LIGHTS") > 0 {
-//    Client.publish("home/alexa-reply","turning on the lights")
-//  }
-//  if(incomingMessage.indexOf("TURN OFF LIGHTS") > 0 {
-//    Client.publish("home/alexa-reply","turning off the lights")
-//  }
-//
 
 
 EthernetClient ethClient;
@@ -306,6 +283,9 @@ void setup()
   // give the Ethernet shield a second to initialize:
   delay(1500);
 }
+
+
+
 
 void loop()
 {
