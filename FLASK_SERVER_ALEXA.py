@@ -1,5 +1,3 @@
-import telegram
-from telegram.ext import Updater,MessageHandler
 import logging
 import os
 import paho.mqtt.client as mqtt
