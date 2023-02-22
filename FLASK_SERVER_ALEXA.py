@@ -30,7 +30,7 @@ def chatgpt(user_question,room):
         session.attributes['stop'] = False
         return statement("Goodbye")
     else:
-        openai.api_key = "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"
+        openai.api_key = "sk-t5Zj7TH***********************ZqyW28aWB2lblsS53N"
         chat=user_question
         print(chat)
         if 'turn on lights' in chat.lower():
