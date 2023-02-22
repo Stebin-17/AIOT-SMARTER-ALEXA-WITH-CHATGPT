@@ -29,10 +29,12 @@
   7. Setup the alexa end point with the 'HTTPS' instead of AWS Lambda ARN
   
   8. Link the created skill with the AMAZON-ECHO-DOT
+  
+**7. SAMPLE UTTERENCES**
 
-**7. OUTPUT**
+**8. OUTPUT**
 
-**8. CONCLUSION**
+**9. CONCLUSION**
 
 ## **1. INTRODUCTION:**
 
