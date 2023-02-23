@@ -226,7 +226,7 @@ The final output of the entire project is published in youtube. The link for the
 
 In conclusion, the project "Smarter Alexa with ChatGPT" demonstrates the power of integrating cutting-edge technologies to create a smart and efficient home automation system. By combining Alexa skills, ChatGPT3 API, Raspberry Pi 4, Wiznet boards, MQTT protocol, and ngrok service, we were able to create a seamless and intelligent system for controlling LED lights and displaying the status on an 8x8 dot matrix. With this system, users can easily operate their home devices with simple voice commands and receive real-time feedback on the status of their devices. This project has great potential for expanding to other home automation applications and demonstrates how the integration of AI, IoT, and voice control can create a smarter and more convenient living environment.
 
-## REFERENCES:
+## REFERENCES
 - https://developer.amazon.com/en-US/docs/alexa/ask-overviews/create-developer-account.html
 - https://www.educative.io/answers/how-to-get-api-key-of-gpt-3
 - https://ngrok.com/download
