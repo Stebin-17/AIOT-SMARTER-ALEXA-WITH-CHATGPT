@@ -166,6 +166,12 @@ The flask is installed in the Raspberry pi. Now we have to run the flask server,
 ### 6. CIRCUT CONNECTION
 The last hardwares to set up is the W5100S-EVB-PICO board, LED and 8*8 DOT-MATRIX. The circut connection for the same is given below.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114398468/220860844-5b2690da-a80c-4bdb-b086-52d7ec9a2df5.jpeg"/>
+</p>
+
+- Connect the VCC of the dot matrix to 
+
 Make the connection as shown in the figure and copy paste the [code](https://github.com/Stebin-17/AIOT-SMARTER-ALEXA-WITH-CHATGPT/blob/main/ALEXA_SUBSCRIPTION_LED%26DOT_MATRIX.ino) into the Aurdino ide. 
 
 ### 7. SETUP THE ALEXA ENDPOINT
