@@ -61,6 +61,7 @@ To implement this project, a Raspberry Pi 4 is used as a server to communicate w
 ## **4. PROGRAMMING LANGUAGES**
 - C
 - PYTHON
+- AURDINO IDE
 
 ## **5. WORKFLOW**
 
@@ -183,8 +184,7 @@ Head over to 'test' section of your skill console and start testing your skill. 
 I have tested the below given utterances for opening and closing and it was working fine. More phrases can be possible:
 
     TURNING ON:
-
-    • alexa ask chat i want to see
+    
     • alexa ask chat let there be light
     • alexa ask chat why there is no lights
     • alexa ask chat turn on the light
