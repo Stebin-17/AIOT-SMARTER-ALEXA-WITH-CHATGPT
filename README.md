@@ -14,7 +14,7 @@
 
 **6. STEPS**
 
-  1. Create an Amzazon developer account. 
+  1. Create an Amazon developer account. 
   
   2. Create the Alexa skill with the desired invocation name and make the necessary intent blocks.
   
