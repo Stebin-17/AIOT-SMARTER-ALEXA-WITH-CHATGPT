@@ -59,7 +59,7 @@ To implement this project, a Raspberry Pi 4 is used as a server to communicate w
 - [NGROK](https://ngrok.com/)
 
 ## **4. PROGRAMMING LANGUAGES**
-- C
+- C++
 - PYTHON
 - AURDINO IDE
 
