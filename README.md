@@ -170,7 +170,13 @@ The last hardwares to set up is the W5100S-EVB-PICO board, LED and 8*8 DOT-MATRI
   <img src="https://user-images.githubusercontent.com/114398468/220860844-5b2690da-a80c-4bdb-b086-52d7ec9a2df5.jpeg"/>
 </p>
 
-- Connect the VCC of the dot matrix to 
+- Connect the VCC of the dot matrix to pin VBUS
+- Connect the GND of the dot matrix to pin GND
+- Connect the DIN of the dot matrix to pin GP11
+- Connect the CS of the dot matrix to pin GP13
+- Connect the CLK of the dot matrix to pin GP10
+- Connect the positive leg of LED to GP14
+- Connect the negative leg of the LED to GND
 
 Make the connection as shown in the figure and copy paste the [code](https://github.com/Stebin-17/AIOT-SMARTER-ALEXA-WITH-CHATGPT/blob/main/ALEXA_SUBSCRIPTION_LED%26DOT_MATRIX.ino) into the Aurdino ide. 
 
