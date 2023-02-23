@@ -57,11 +57,12 @@ To implement this project, a Raspberry Pi 4 is used as a server to communicate w
 - [FLASK-ASK](https://github.com/johnwheeler/flask-ask)
 - [MQTT SERVICE](https://mqtt.org/)
 - [NGROK](https://ngrok.com/)
+- [AURDINO IDE](https://www.arduino.cc/)
 
 ## **4. PROGRAMMING LANGUAGES**
-- C++
-- PYTHON
-- AURDINO IDE
+- [C++](https://isocpp.org/)
+- [PYTHON](https://www.python.org/)
+
 
 ## **5. WORKFLOW**
 
