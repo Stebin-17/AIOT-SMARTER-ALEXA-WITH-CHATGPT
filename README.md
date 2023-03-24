@@ -14,21 +14,21 @@
 
 **6. STEPS**
 
-  1. Create an Amazon developer account 
+ > 1. Create an Amazon developer account 
   
-  2. Create the Alexa skill with the desired invocation name and make the necessary intent blocks.
+ > 2. Create the Alexa skill with the desired invocation name and make the necessary intent blocks.
   
-  3. Make the raspberry pi ready.
+ > 3. Make the raspberry pi ready.
   
-  4. Setup ngrok server in the Raspberry pi 
+ > 4. Setup ngrok server in the Raspberry pi 
   
-  5. Setup the flask server for handling the alexa skills.
+ > 5. Setup the flask server for handling the alexa skills.
   
-  6. Circut connection
+ > 6. Circut connection
   
-  7. Setup the alexa end point with the 'HTTPS' instead of AWS Lambda ARN
+ > 7. Setup the alexa end point with the 'HTTPS' instead of AWS Lambda ARN
   
-  8. Link the created skill with the AMAZON-ECHO-DOT
+ > 8. Link the created skill with the AMAZON-ECHO-DOT
   
 **7. SAMPLE UTTERENCES**
 
